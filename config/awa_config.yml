@@ -1,0 +1,14 @@
+dataset:
+        file: "../../dataset/AWA2.mat"
+        dset_name: "AWA2"
+        additional_attributes: ""
+        write_location: "../FinalWeights/"
+        
+model:
+        base_zsl_net: 
+                - FC_layer_m: "feed85m"
+                - FC_layer_c: "feed85c"
+        ADA:
+                classifier: "linear"
+                discriminator: "disc_v1"
+                generator: "gen_v1"

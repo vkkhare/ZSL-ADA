@@ -1,5 +1,5 @@
 # ZSL-ADA
-Code accompanying the paper [A Generative Framework for Zero Shot Learning with Adversarial Domain Adaptation](https://arxiv.org/abs/1906.03038) published in [WACV 2020](http://wacv20.wacv.net/), with the following author list: [Varun Khare*](http://home.iitk.ac.in/~varun/), [Divyat Mahajan*](https://divyat09.github.io/), [Homanga Bharadhwaj](https://homangab.github.io/), [Vinay K. Verma](), and [Piyush Rai](https://homangab.github.io/)
+Code accompanying the paper [A Generative Framework for Zero Shot Learning with Adversarial Domain Adaptation](https://arxiv.org/abs/1906.03038) published in [WACV 2020](http://wacv20.wacv.net/), with the following author list: [Varun Khare*](https://vkkhare.github.io/), [Divyat Mahajan*](https://divyat09.github.io/), [Homanga Bharadhwaj](https://homangab.github.io/), [Vinay K. Verma](), and [Piyush Rai](https://homangab.github.io/)
 
 # Brief note about the paper
 <img src="Overall.png" width=55% align="right">
@@ -8,12 +8,11 @@ This paper present a domain adaptation based generative framework for zero shot 
 # If you find this repo useful, please consider citing our paper
 
 ```bibtex
-@article{khare2020generative,
+@inproceedings{khare2020generative,
   title={A Generative Framework for Zero Shot Learning with Adversarial Domain Adaptation},
-  author={Khare, Varun and Mahajan, Divyat and Bharadhwaj, Homanga and Verma, Vinay K and Rai, Piyush},
-  journal={Winter Conference on Applications of Computer Vision},
+  author={Khare, Varun and Mahajan, Divyat and Bharadhwaj, Homanga and Verma, Vinay Kumar and Rai, Piyush},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={3101--3110},
   year={2020}
 }
 ```
-
-
