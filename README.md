@@ -8,7 +8,7 @@ This paper present a domain adaptation based generative framework for zero shot 
 &nbsp;
 &nbsp;
 </br>
-If you have questions/comments about the code or the paper, please contact Varun Khare, Divyat Mahajan, or [Homanga Bharadhwaj](https://homangab.github.io/)
+If you have questions/comments about the code or the paper, please contact [Varun Khare](http://home.iitk.ac.in/~varun/), [Divyat Mahajan](https://divyat09.github.io/), or [Homanga Bharadhwaj](https://homangab.github.io/)
 
 # If you find this repo useful, please consider citing our paper
 
